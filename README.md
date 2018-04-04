@@ -1,3 +1,5 @@
+This repository is moved to: https://github.com/spark-mv/ios_sdk
+
 # Spark iOS SDK
 
 This document describes integration of a native iOS app with Spark player and feature library.
